@@ -42,15 +42,15 @@ directions:
 - Add the cooked veggies with all of the stock or water from the pressure cooker in which the veggies were cooked; mix very well.
 - Season with salt as per taste.
 - With a potato masher, begin to mash the veggies directly in the pan.
-- If the bhaji becomes dry and then add some more water. The consistency is neither very thick nor thin.
-- Do stir often so that the bhaji does not stick to the pan. When the pav bhaji simmers to the desired consistency, check the taste. Add salt, pav bhaji masala, red chili powder or butter if required.
+- If the bhaji becomes dry, add some more water. The consistency should be neither very thick nor watery.
+- Do stir often so that the bhaji does not stick to the pan. When the pav bhaji simmers to the desired consistency, check the taste. Add salt, pav bhaji masala, red chili powder, or butter if required.
 - Turn off flame and set bhaji aside.
 - Now slice the pavs into halves.
 - Heat a shallow frying pan. Keep the flame to a low and then add butter.
 - When the butter begins to melt, place the pav on the butter with the white side face down on the pan.
 - Toast the pav halves until they turn light brown and absorb the butter; set aside.
-- Now take the bhaji in a serving plate or a bowl. 
-- Place a side of finely chopped onions, lemon wedges and finely chopped coriander leaves. Or you can sprinkle onions, coriander leaves and lemon juice directly on the bhaji.
+- Serve bhaji in a small serving plate. 
+- Place a side of finely chopped onions, lemon wedges and finely chopped coriander leaves. You could also garnish the bhaji directly with onions, coriander leaves, and lime juice.
 - Serve bhaji with the lightly pan fried and buttered pav. 
 
 ---
