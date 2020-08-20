@@ -36,7 +36,7 @@ directions:
 - Then add ginger-garlic paste. 
 - Now add 2 cups finely chopped tomatoes. mix very well.
 - Saute tomatoes on low to medium flame till the tomatoes become soft and mushy and you see butter releasing from the sides. This takes about 6 to 7 minutes on a low to medium flame. If the tomatoes start sticking to the pan, then add some water and mix well.
-- When the tomatoes have softened, then add the finely chopped bell pepper. Saute for 2 to 3 minutes. If the mixture starts sticking to the pan, add some water. You don’t need to cook the capsicum till very soft. A little crunch is alright.
+- When the tomatoes have softened, then add the finely chopped bell pepper. Saute for 2 to 3 minutes. If the mixture starts sticking to the pan, add some water. You don’t need to cook the bell pepper till very soft. A little crunch is alright.
 - Add turmeric powder and red chili powder.
 - Then add the pav bhaji masala and mix very well.
 - Add the cooked veggies with all of the stock or water from the pressure cooker in which the veggies were cooked; mix very well.
