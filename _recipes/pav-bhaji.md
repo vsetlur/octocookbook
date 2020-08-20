@@ -11,7 +11,7 @@ ingredients:
 - 1 cup chopped carrot
 - 1 cup green peas, fresh or frozen
 - 2.25 to 2.5 cups water for pressure cooking
-- 3 tablespoons unsalted butter, butter is also added later while serving, you can add upto 5 to 6 tablespoons of butter too for a richer version
+- 3 tablespoons unsalted butter
 - 1 teaspoon cumin seeds
 - 2 large red onions, finely chopped
 - 2 teaspoons ginger-garlic paste 
@@ -22,7 +22,7 @@ ingredients:
 - 2 to 3 tablespoons <a href="https://www.amazon.com/MDH-Pav-Bhaji-Masala-100g/dp/B00303RXJU">pav bhaji masala</a>, add as required
 - 1.5 to 2 cups water or the stock in which the veggies were cooked or add as required
 - salt to taste
-- 12 pavs (dinner rolls) for serving with the bhaji
+- 12 pavs (dinner rolls) for serving with the bhaji. <a href="http://www.traderjoesreviews.com/product/trader-joes-pull-apart-dinner-rolls-reviews/">Here</a> is something similar.
 - 2 limes, chopped in wedges
 - 3 to 4 tablespoons chopped cilantro leaves, for garnish
 
