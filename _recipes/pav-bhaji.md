@@ -19,7 +19,7 @@ ingredients:
 - 2 cups finely chopped tomatoes
 - 1 teaspoon turmeric powder
 - 1 teaspoon red chili powder  
-- 2 to 3 tablespoons pav bhaji masala, add as required
+- 2 to 3 tablespoons <a href="https://www.amazon.com/MDH-Pav-Bhaji-Masala-100g/dp/B00303RXJU">pav bhaji masala</a>, add as required
 - 1.5 to 2 cups water or the stock in which the veggies were cooked or add as required
 - salt to taste
 - 12 pavs (dinner rolls) for serving with the bhaji
