@@ -2,12 +2,12 @@
 title: The Great OCTO Cookbook
 email: your-email@domain.com
 description: The plain text recipe database for hackers
-baseurl: "https://chowdown.io"
+baseurl: "https://vsetlur.github.io/octocookbook/"
 language: "en"
 lang_direction: "ltr"
 color: "#007FFF"
-twitter_username: clarklab
-github_username:  clarklab
+twitter_username: vsetlur
+github_username:  vsetlur
 
 # Build settings
 markdown: kramdown
