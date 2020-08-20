@@ -33,6 +33,7 @@ They are written in Markdown and contain a few special sections:
 - Body content (for intros, stories, written detail)
 
 If you need help with Markdown, here's a [handy cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+Add the corresponding image to the /images folder.
 
 # Writing a component recipe
 
