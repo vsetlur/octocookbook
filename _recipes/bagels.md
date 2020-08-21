@@ -2,7 +2,7 @@
 
 layout: recipe
 title:  "Bagels"
-image: 
+image: bagel.jpg
 tags: bread
 
 ingredients:
