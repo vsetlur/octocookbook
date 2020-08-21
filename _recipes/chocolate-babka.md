@@ -29,7 +29,7 @@ ingredients:
 
 
 directions:
-### Dough
+Dough
 2 packages (about 4½ tsp.) active dry yeast
 ½ c. warm (about 100°F) water
 
@@ -55,7 +55,7 @@ directions:
 - Turn dough out onto a board or pastry cloth coated with some of the remaining ½ to 1 cup flour. Knead until dough is smooth and satiny and small bubbles form just under surface (10 to 12 minutes), adding just enough flour to prevent dough from being sticky.
 - Turn dough in a greased bowl. Cover with plastic wrap and a towel; let rise in a warm place until doubled in bulk (45 minutes to 1 hour).
 
-### Filling
+Filling
 1/3 c. unsweetened cocoa (I prefer Droste brand)
 2/3 c. sugar
 
@@ -71,7 +71,7 @@ directions:
 - Let rise until almost doubled in bulk (35 to 45 minutes). Preheat oven to 350°F.
 
 
-### Topping
+Topping
 2 Tbsp. (¼ stick) butter or margarine, softened
 ¼ tsp. ground cinnamon
 1/3 c. confectioner’s sugar
@@ -87,7 +87,7 @@ In my experience, this is too much topping - if you expand the recipe you probab
 
 - Beat reserved egg white with water and brush over loaves. Sprinkle each loaf with half of the topping.
 
-### Baking!
+Baking!
 - Bake until well browned (30 to 35 minutes). Carefully remove loaves from pans and let cool on wire racks.
 
 
