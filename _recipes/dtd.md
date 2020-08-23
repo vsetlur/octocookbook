@@ -2,7 +2,7 @@
 
 layout: recipe
 title:  "DTD (coconum rum, ginger ale, lime)"
-image: 
+image: dtd.jpg
 tags: beverage, cocktail
 
 ingredients:
