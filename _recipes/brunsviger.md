@@ -2,7 +2,7 @@
 
 layout: recipe
 title:  "Brunsviger - Brown Sugar Yeast Cake"
-image: brusnsviger.jpg
+image: brunsviger.jpg
 tags: cake, sweets, yeasted bread
 
 ingredients:
